@@ -1,2 +1,2 @@
-# PraktikumWebProgramming1
-Praktikum Web Programming Pertemuan 1
+# praktikumwebprogramming1
+praktikum Web programming pertemuan 1
